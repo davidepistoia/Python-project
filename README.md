@@ -1,9 +1,6 @@
 ReFresh Food Manager 🍎
 Python Project | start2impact University
 
-<p align="center">
-  <img src="refresh_food_gui.png" alt="ReFresh Food Manager GUI" width="600">
-</p>
 
 📌 Vision & Mission
 
