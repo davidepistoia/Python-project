@@ -2,12 +2,15 @@ ReFresh Food Manager 🍎
 Python Project | start2impact University
 
 📌 Vision & Mission
+
 Every year, millions of tons of perfectly edible food are wasted globally. ReFresh Food is a (hypothetical) startup founded in Milan in 2023 with a clear goal: to transform this waste into opportunity. We recover unsold products or those with aesthetic defects and turn them into delicious, sustainable meals.
 
 🎯 Project Objective
+
 The goal of this project was to develop a management software that allows the ReFresh Food team to catalog and manage recipes created in our cooking lab. The system optimizes the use of recovered ingredients and facilitates recipe discovery based on current product availability.
 
 🚀 Key Features
+
 The application features an intuitive Graphical User Interface (GUI) to handle:
 
 Recipe Management: Add, view, and delete recipes (including name, category, preparation time, and ingredients).
